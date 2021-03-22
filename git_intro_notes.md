@@ -71,9 +71,17 @@
 ## Useful commands
 - `git status`
 - `git remote -v` shows all of your remotes
-
+- `git diff` before any adding/commiting shows changes
 
 ## Lay of the Land
-~/Desktop/codeup-data-science is a regular folder
-~/Desktop/codeup-data-science/database-exercise will be a git repo
-~/Desktop/codeup-data-science/classification-project will be a git repo
+`~/Desktop/codeup-data-science` is a regular folder
+`~/Desktop/codeup-data-science/database-exercise` will be a git repo
+`~/Desktop/codeup-data-science/classification-project` will be a git repo
+
+
+## Useful Notes
+- commit early, commit often
+- commits should be a complete thought or fix or feature
+- push your commits at least once or twice a day
+- "If it ain't in version control, then it doesn't exist"
+- "Git Push every day"
