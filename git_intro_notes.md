@@ -80,8 +80,11 @@
 
 
 ## Useful Notes
+- think of a "commit" as a fancy signed, sealed, wax stamped fancy envelope from from some fancy desk
+- a push could contain 1 or 2 or n amount of commits, where n is a positive number
 - commit early, commit often
 - commits should be a complete thought or fix or feature
 - push your commits at least once or twice a day
 - "If it ain't in version control, then it doesn't exist"
 - "Git Push every day"
+- If your commit message is kinda short, you can do `git commit -m "this is my commit"`
