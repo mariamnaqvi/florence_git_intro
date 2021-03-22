@@ -89,4 +89,17 @@
 - push your commits at least once or twice a day
 - "If it ain't in version control, then it doesn't exist"
 - "Git Push every day"
+
+- Making a directory is making a directory
+- mkdir some_directory
+- Repos are special folders (where a git init has been done)
+Creating a repository:
+- we can create on github and clone down. (in this case, GitHub is doing the mkdir then doing the git init inside of that folder on their servers). When we clone this, we're getting copy of this new folder that was initialized as a git repo
+- alternative method is to create the folder on your laptop first then running git init.
+~/Desktop/codeup_data_science/
+~/Desktop/codeup_data_science/database-exercises/
+~/Desktop/codeup_data_science/python-exercises/
+~/Desktop/codeup_data_science/regression-exercises/
+~/Desktop/codeup_data_science/regression-project/
+Avoid repos inside of repos.
 - If your commit message is kinda short, you can do `git commit -m "this is my commit"`
