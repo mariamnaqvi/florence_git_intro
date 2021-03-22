@@ -56,8 +56,17 @@
     - this makes a copy of the repo locally
 
 ## Our Daily Workflow
-
-
+- do work until you've finished a thing or fixed a thing...
+- do work, add lines to files, make new files, edit files, delete, whatever...
+- `git status` to show which files changed
+- `git add filename` (where filename is an actual filename)
+- run `git status` again to see that file show green
+- Adding a file is like putting a letter in an envelope..
+- `git commit` will open your editor so you can type the commit message
+- save and close that editor window
+- we can add one or more changes to each commit
+- `git push` uploads any commits we have to your remotes
+- lather, rinse, repeat...
 
 ## Useful commands
 - `git status`
