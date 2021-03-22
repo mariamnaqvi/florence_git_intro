@@ -54,11 +54,13 @@
     - Clone our repository down to our local computer, making a new folder
     - to clone, we type "git clone " then paste that clone address
     - this makes a copy of the repo locally
+- Another way to setup your repos is to start locally on your computer. [Directions are here](https://ds.codeup.com/fundamentals/git/)
 
 ## Our Daily Workflow
 - do work until you've finished a thing or fixed a thing...
 - do work, add lines to files, make new files, edit files, delete, whatever...
 - `git status` to show which files changed
+- `gid diff` to see what has changed in those files
 - `git add filename` (where filename is an actual filename)
 - run `git status` again to see that file show green
 - Adding a file is like putting a letter in an envelope..
